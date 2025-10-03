@@ -1,0 +1,62 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    
+   
+}
+
+a{
+    text-decoration: none;
+    color:rgb(255, 254, 254);
+}
+
+span{
+
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 100px;
+    gap: 30px;
+    width: fit-content;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+
+
+   
+       
+}
+
+
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 550px;
+    padding: 10px;
+    justify-content: center;
+   
+}
+
+
+.name{
+    background-color: rgb(58, 59, 59);
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 8px ;
+    
+    
+}
+span{
+    display: flex;
+
+}
+img{
+    width: 30px;
+    margin-right: 20;
+}
